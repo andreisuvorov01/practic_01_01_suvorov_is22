@@ -1,0 +1,17 @@
+D:\practic\calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+D:\practic\calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+D:\practic\calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+D:\practic\calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+D:\practic\calculator\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+D:\practic\calculator\calculator\calculator\obj\Debug\net6.0-windows\calculator.main_window.resources
